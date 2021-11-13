@@ -5,9 +5,6 @@ $email  = $_POST['email'];
 $upswd1 = $_POST['upswd1'];
 $upswd2 = $_POST['upswd2'];
 
-
-
-
 if (!empty($uname1) || !empty($email) || !empty($upswd1) || !empty($upswd2) )
 {
 
